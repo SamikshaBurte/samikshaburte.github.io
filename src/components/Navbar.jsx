@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Menu, Moon, Sun, X } from 'lucide-react';
 
-const resumeUrl = 'https://drive.google.com/file/d/1cGkPsqxXVKkxS6Pj53cExswu-bz0-fiU/view?usp=sharing';
+const resumeUrl = 'https://drive.google.com/file/d/1Bz2ovQmy-mEIjq-kvJBxT10w9U42RhdY/view?usp=sharing';
 
 const Navbar = ({ theme, toggleTheme }) => {
   const [isScrolled, setIsScrolled] = useState(false);
