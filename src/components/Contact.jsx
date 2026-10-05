@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowUpRight, Mail } from 'lucide-react';
 import { FaFilePdf, FaGithub, FaLinkedin } from 'react-icons/fa';
 
-const resumeUrl = 'https://drive.google.com/file/d/1Bz2ovQmy-mEIjq-kvJBxT10w9U42RhdY/view?usp=sharing';
+const resumeUrl = 'https://drive.google.com/file/d/1ItNn5jWEe2H5gQnkhR218PSrybnT2UR_/view?usp=sharing';
 
 const Contact = () => (
   <section id="contact" className="contact-section">
